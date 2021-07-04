@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySpinnerId</string>
+    <string name="buttontext">Print</string>
+    <string-array name="Country_Names">
+
+        <item>Bangladesh</item>
+        <item>Pakistan</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Soudi Arabia</item>
+        <item>UAE</item>
+        <item>Katar</item>
+        <item>Kuyet</item>
+
+    </string-array>
+</resources>
